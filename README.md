@@ -1,6 +1,6 @@
 # groovy-airplane-6414
 
-# [Gulmohar-Flower-Shop](https://gulmohar-the-flower-shop.netlify.app/)
+# [Gulmohar-Flower-Shop](https://kaleidoscopic-axolotl-77aca0.netlify.app/)
 
 - Clone of [1-800 Flowers](https://www.1800flowers.com/)
 
@@ -16,7 +16,7 @@ A team of four people created this project over the course of five days.
 
 
 ### Netlify Link
-https://gulmohar-the-flower-shop.netlify.app/
+https://kaleidoscopic-axolotl-77aca0.netlify.app/
 
 ### Description
 The Gulmohar is a E-commerce website of flowers and gift delivery. It includes various categories and brands according to the needs of customers.
